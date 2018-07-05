@@ -2,6 +2,7 @@
     "name": "simplesamlphp/simplesamlphp-module-deviceauth",
     "description": "Device authentication module installable through Composer.",
     "type": "simplesamlphp-module",
+    "minimum-stability": "dev",
     "require": {
         "simplesamlphp/composer-module-installer": "~1.0"
     }
